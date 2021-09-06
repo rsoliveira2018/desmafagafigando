@@ -370,9 +370,8 @@ healthchecksdb
 # Backup folder for Package Reference Convert tool in Visual Studio 2017
 MigrationBackup/
 
-# Ionide (cross platform F# VS Code tools) working folder
-<<<<<<< HEAD
-.ionide/
-=======
-.ionide/
->>>>>>> main
+backend/desmafagafigando.api/obj/desmafagafigando.api.csproj.nuget.dgspec.json
+backend/desmafagafigando.api/obj/desmafagafigando.api.csproj.nuget.g.props
+backend/desmafagafigando.api/obj/project.assets.json
+backend/desmafagafigando.api/obj/project.nuget.cache
+backend/desmafagafigando.api/obj/Debug/netcoreapp3.1/desmafagafigando.api.csprojAssemblyReference.cache
