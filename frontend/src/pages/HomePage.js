@@ -4,7 +4,7 @@ class HomePage extends React.Component {
     render(){
         return(
             <>
-                <div class="homePageIntro centered">
+                <div className="homePageIntro centered">
                     Se liga nas nossas últimas desmafagafigadas e junte-se a nós nas próximas:
                 </div>
 
@@ -40,7 +40,7 @@ class HomePage extends React.Component {
                                     </div>
                                 </div>
                                 <div className="carousel-item">
-                                    <img className="d-block w-100 mainImages" src="../imgs/slides/picolopo.jpeg" alt="Serra do Lopo - Joanópolis - SP" />
+                                    <img className="d-block w-100 mainImages" src="../imgs/slides/picolopo.jpg" alt="Serra do Lopo - Joanópolis - SP" />
                                     <div className="carousel-caption d-none d-md-block">
                                         <h5>
                                             Pico do Lopo - Joanópolis - SP / Extrema - MG
