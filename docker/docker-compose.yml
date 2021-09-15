@@ -10,7 +10,7 @@ services:
       MYSQL_ROOT_PASSWORD: rootpassword
       MYSQL_DATABASE: desmafagafigando
     ports:
-      - "3307:3306"
+      - "8567:3306"
 
   frontend:
     container_name: frontend

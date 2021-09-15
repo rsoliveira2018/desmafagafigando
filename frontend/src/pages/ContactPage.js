@@ -23,7 +23,7 @@ class ContactPage extends React.Component {
     }
 
     handleSubmit(event){
-        this.postMessage('https://localhost:44322/mensagens/adicionar');
+        this.postMessage('https://localhost:5001/mensagens/adicionar');
         event.preventDefault();
     }
 
